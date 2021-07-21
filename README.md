@@ -1,1 +1,2 @@
-# virtual-pet-1-for-paras-gaming
+# Virtual-Pet-1
+c34 project
